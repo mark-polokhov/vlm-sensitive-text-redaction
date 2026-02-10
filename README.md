@@ -87,7 +87,7 @@
 ## Структура проекта
 
 ```
-context_aware_redaction/
+vlm-sensitive-text-redaction/
 │
 ├── examples                # Примеры
 ├── notebooks               # Ноутбуки
